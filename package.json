@@ -1,0 +1,24 @@
+{
+   "name": "xo-hyper",
+   "version": "0.1.0",
+   "description": "minimal monochrome theme.",
+   "main": "index.js",
+   "repository": "https://github.com/ayikfour/xo-hyper.git",
+   "keywords": [
+      "xo",
+      "ui",
+      "apex",
+      "black",
+      "white",
+      "hyper",
+      "theme",
+      "grayscale",
+      "monochrome"
+   ],
+   "license": "MIT",
+   "scripts": {
+      "start": ""
+   },
+   "dependencies": {},
+   "devDependencies": {}
+}
