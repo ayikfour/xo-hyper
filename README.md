@@ -10,19 +10,19 @@ A minimal monochrome theme for [Hyper](https://hyper.is).
 
 Ensure you have [Hyper](https://hyper.is) installed. Then run the following from the command line:
 ```bash
-$ hyper install xi-hyper
+$ hyper install xo-hyper
 ```
 
 ### Manually
 
-Open your `~/.hyper.js` configuration file and add `"xi-hyper"` to your plugins:
+Open your `~/.hyper.js` configuration file and add `"xo-hyper"` to your plugins:
 ```js
 module.exports = {
 
   config: { /*... */ },
 
   plugins: [
-    "xi-hyper"
+    "xo-hyper"
   ]
 
 };
