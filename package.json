@@ -1,6 +1,6 @@
 {
    "name": "xo-hyper",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "description": "minimal monochrome theme.",
    "main": "index.js",
    "repository": "https://github.com/ayikfour/xo-hyper.git",

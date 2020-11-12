@@ -28,7 +28,7 @@ exports.decorateConfig = (config) =>
       borderColor: black,
       cursorColor: ocGray9,
       colors: {
-         black: ocGray8,
+         black: ocGray1,
          red: ocGray7,
          green: ocGray6,
          yellow: ocGray5,
